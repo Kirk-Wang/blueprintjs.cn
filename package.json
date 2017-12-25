@@ -1,0 +1,9 @@
+{
+  "name": "blueprintjs.cn",
+  "version": "0.1.0",
+  "description": "（Blueprint）蓝图JS中文网",
+  "main": "index.js",
+  "repository": "git@github.Kirk-Wang:Kirk-Wang/blueprintjs.cn.git",
+  "author": "Kirk-Wang <kirk.w.wang@gmail.com>",
+  "license": "MIT"
+}
